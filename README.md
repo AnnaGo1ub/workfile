@@ -17,4 +17,7 @@ Hello everyone My name is Ann and I am a data analyst. I work with Excel and SQL
 <ol>
 
 > <a href="unit economy calculator.jpg">Ссылка на проект</a>
+> <a href="visualization1.jpg">Ссылка на проект</a>
+> <a href="unit economy calculator.jpg">Ссылка на проект</a>
+> <a href="unit economy calculator.jpg">Ссылка на проект</a>
  
