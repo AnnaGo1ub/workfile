@@ -10,7 +10,7 @@ Hello everyone My name is Ann and I am a data analyst. I work with Excel and SQL
 - Инструменты анализа данных: ``SQL``, ``Excel``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBi``
-- Знание языков: Русский, Английский (А2), Испанский (В1)
+- Знание языков: Русский, English (А2), Español (В1)
 
 ## Проекты/Projects
 <p> Проект 1: Калькулятор юнит-экономики онлайн-кинотеатра/Project 1: Online Cinema Unit Economy Calculator</p>
