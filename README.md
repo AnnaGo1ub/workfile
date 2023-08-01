@@ -20,10 +20,13 @@ Hello everyone My name is Ann and I am a data analyst. I work with Excel and SQL
 > <a href="unit economy calculator.jpg">Калькулятор юнит-экономики/Unit Economy Calculator</a>
 > <a href="visualization1.jpg">Распределение пользователей по часовым поясам/Distribution of users by time zones</a>
 > <a href="visualization2.jpg">Распределение по времени/Time distribution</a>
-> <a href="visualization3.jpg">Динамика пользовательской активности/Dynamics of user activity</a>
-<ol>
+> <a href="visualization3.jpg">Динамика пользовательской активности/Dynamics of user activity
 
-  
-<p> Проект 2: SQL-запрос для моделирования изменения баланса студентов онлайн-школы /Project 2: SQL query for modeling changes in the balance of online school students</p>
+
+<p>Проект 2: SQL-запрос для моделирования изменения баланса студентов онлайн-школы /Project 2: SQL query for modeling changes in the balance of online school students</p>
 <p>Что нужно было сделать:запрос, который собирает данные о балансах студентов за каждый "прожитый" ими день (сколько всего уроков было на балансе **всех учеников** за каждый календарный день и как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков))/What needed to be done:which collects data on students' balances for each day they "lived" (how many lessons were on the balance ** of all students ** for each calendar day and how this number changed under the influence of transactions (payments, accruals, corrective write-offs) and lessons (write-offs from the balance as the lessons progressed))<p>
 <ol>
+
+> <a href="chart.jpg">График/Chart</a>
+> <a href="part of the code_1.jpg">Часть кода/Part of the code</a>
+> <a href="part of the code_2.jpg">Часть кода/Part of the code</a>
